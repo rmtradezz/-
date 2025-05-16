@@ -1,0 +1,4 @@
+solana
+anchorpy
+asyncio
+requests
