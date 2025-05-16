@@ -1,4 +1,3 @@
-solana
-anchorpy
-asyncio
+solana==0.24.0
+anchorpy==0.15.0
 requests
